@@ -1,5 +1,5 @@
 {
-  "name": "cypress-cucumber-webpack-example",
+  "name": "cypress-cucumber-webpack-typescripts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
